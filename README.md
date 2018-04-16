@@ -4,5 +4,5 @@ This repository had finished up to part 9 (https://unity3d.college/2016/01/25/in
 with little modification on camera position & screen orientation (horizontal)
 
 ## Deploying to platforms (Android, PC, IOS...)
-Refer: https://unity3d.college/2016/01/28/make-unity-builds-standalone/
-Android: https://unity3d.college/2016/02/01/unity-android-deployment/
+-Refer: https://unity3d.college/2016/01/28/make-unity-builds-standalone/
+-Android: https://unity3d.college/2016/02/01/unity-android-deployment/
