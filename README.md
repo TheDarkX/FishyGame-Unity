@@ -1,7 +1,7 @@
 A clone of FlappyBird game from tutorial (https://unity3d.college/2015/10/29/unity3d-intro-building-flappy-birds-part-1/) 
 Collect the bubbles for scores!
 
-https://hostr.co/file/970/e8inFGVHEzL3/Untitled.png
+![enter image description here](https://hostr.co/file/970/e8inFGVHEzL3/Untitled.png)
 
 
 This repository had finished up to part 9 (https://unity3d.college/2016/01/25/intro-to-unity3d-building-flappy-bird-part-9/)
